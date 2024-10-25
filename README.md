@@ -20,7 +20,7 @@ QDine-Merlin Team Members:
     * Ilenia_Bariviera_Wizard (ilenia6220)
 
 
-The proposed solution, with the relevant comments, is given in the `project_notebook_final_final.ipynb`. The presentation is `PRESENTATION.pdf`.
+The proposed solution, with the relevant comments, is given in the `project_notebook_final_final.ipynb`. The presentation is `PRESENTATION.pdf`. The data used, obtained from the unique_attendance_15 dataset, is stored in  `data_weeks.csv`.
 
 
 
