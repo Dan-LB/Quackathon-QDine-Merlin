@@ -3,7 +3,7 @@ This repository contains the project implementation for the Quantum Code Challen
 
 The original README.md file is provided at the end.
 
-QDine-Merlin Team Members:
+QDine-Merlin Team Members (name, mail, git, discord):
 * Daniele Lizzio Bosco
     * lizziobosco.daniele@spes.uniud.it
     * Dan-LB
