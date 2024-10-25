@@ -1,3 +1,29 @@
+# Quantum Temporal Kernel Anomaly Detection applied to Smart Cities 
+This repository contains the project implementation for the Quantum Code Challenge Hackathon for Smart Cities at CTE at Cagliari Digital Lab,  developed during 22 - 25 October 2024, by the QDine-Merlin Team.
+
+The original README.md file is provided at the end.
+
+QDine-Merlin Team Members:
+* Daniele Lizzio Bosco
+    * lizziobosco.daniele@spes.uniud.it
+    * Dan-LB
+    * Daniele_LizzioBosco_Wizard (dan_lb)
+
+* Riccardo Romanello
+    * riccardo.romenllo@gmail.com
+    * RiccardoRomanello
+    * Riccardo_Romanello_Wizard (riccardor_)
+
+* Ilenia Bariviera
+    * bariviera.ilenia@spes.uniud.it
+    * Ilenia141
+    * Ilenia_Bariviera_Wizard (ilenia6220)
+
+
+The proposed solution, with the relevant comments, is given in the `project_notebook_final_final.ipynb`. The presentation is `PRESENTATION.pdf`.
+
+
+
 # QuantumCodeChallengeHackathon
 Quantum Code Challenge Hackathon for Smart Cities at CTE - Cagliari Digital Lab
 
